@@ -7,12 +7,6 @@ Heart disease is a leading cause of mortality worldwide, and early detection is 
 <h2>Dataset</h2>
 The dataset used in this project is sourced from kaggle dataset repository, containing anonymized patient information including demographics, medical history, and various diagnostic measurements. The dataset is divided into a training set and a test set for model development and evaluation, respectively.
 
-<h2>Project Structure</h2>
-data/: Contains the dataset files.<br>
-notebooks/: Jupyter notebooks for data exploration, preprocessing, model development, and evaluation.<br>
-models/: Saved model files.<br>
-reports/: Reports and documentation.<br>
-
 <h2>Requirements</h2>
 Python 3
 Jupyter Notebook
